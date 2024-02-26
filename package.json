@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.4"
+  },
+  "name": "ninestars",
+  "description": "Thanks for downloading this template!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
